@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-
 Currently, I am a engineering student who tries to be as efficent as possible. I have interest in robotics and singleplayer narrative games
 - 🔭 I’m currently working on robot perception and navigation
 - 🌱 I’m currently learning Kalman filters and game development
@@ -26,6 +24,7 @@ Currently, I am a engineering student who tries to be as efficent as possible. I
 [![Linkedin Badge](https://img.shields.io/badge/-berkealgul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berkealgul/)](https://www.linkedin.com/in/berkealgul/) 
 [![Gmail Badge](https://img.shields.io/badge/berkealgul@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:berkealgul@gmail.com)](mailto:berkealgul@gmail.com)
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 ![Berke's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkealgul&show_icons=true&theme=onedark)
 
