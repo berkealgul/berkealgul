@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Currently, I am a engineering student who tries to be as efficent as possible. I have interest in robotics and singleplayer narrative games
-- 🔭 I’m currently working on robot perception and nacigation
-- 🌱 I’m currently learning Kalman filters and robot localization and tring to 
-- 👯 I’m looking to collaborate on some cool robotics and self-driving projects
+- 🔭 I’m currently working on robot perception and navigation
+- 🌱 I’m currently learning Kalman filters and game development
+- 👯 I’m looking to collaborate on some cool robotics and game development projects
 - 📫 How to reach me: berkealgul@gmail.com
 
 [![Linkedin Badge](https://img.shields.io/badge/-berkealgul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berkealgul/)](https://www.linkedin.com/in/berkealgul/) 
@@ -28,6 +28,6 @@ Currently, I am a engineering student who tries to be as efficent as possible. I
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkealgul)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<--
 #### Visitors (since 14 December 2021)
-![:Berke](https://count.getloli.com/get/@:berkealgul?theme=rule34)
+![:Berke](https://count.getloli.com/get/@:berkealgul?)
