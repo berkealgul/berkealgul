@@ -28,6 +28,6 @@ Currently, I am a engineering student who tries to be as efficent as possible. I
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkealgul)](https://github.com/anuraghazra/github-readme-stats)
 
-<--
-#### Visitors (since 14 December 2021)
+<!--
+#### Visitors (since 14 December 2021) -->
 ![:Berke](https://count.getloli.com/get/@:berkealgul?)
