@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
-**berkealgul/berkealgul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kokjix/Kokjix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Currently, I am a engineering student at I have interest in robotics and singleplayer narrative games
+- 🔭 I’m currently working on robot perception and nacigation
+- 🌱 I’m currently learning Kalman filters and robot localization and tring to 
+- 👯 I’m looking to collaborate on some cool robotics and self-driving projects
+- 📫 How to reach me: berkealgul@gmail.com
+
+
+![Berke's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkealgul&show_icons=true&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkealgul)](https://github.com/anuraghazra/github-readme-stats)
