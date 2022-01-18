@@ -1,7 +1,7 @@
 ### Hi 👋
 
 <!--
-**Kokjix/Kokjix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**berkealgul/berkealgul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,7 +20,14 @@ Currently, I am a engineering student who tries to be as efficent as possible. I
 - 👯 I’m looking to collaborate on some cool robotics and self-driving projects
 - 📫 How to reach me: berkealgul@gmail.com
 
+[![Linkedin Badge](https://img.shields.io/badge/-berkealgul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berkealgul/)](https://www.linkedin.com/in/berkealgul/) 
+[![Gmail Badge](https://img.shields.io/badge/berkealgul@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:berkealgul@gmail.com)](mailto:berkealgul@gmail.com)
+
 
 ![Berke's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkealgul&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkealgul)](https://github.com/anuraghazra/github-readme-stats)
+
+
+#### Visitors (since 14 December 2021)
+![:Berke](https://count.getloli.com/get/@:berkealgul?theme=rule34)
