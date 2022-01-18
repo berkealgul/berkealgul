@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 Currently, I am a engineering student who tries to be as efficent as possible. I have interest in robotics and singleplayer narrative games
 - 🔭 I’m currently working on robot perception and navigation
 - 🌱 I’m currently learning Kalman filters and game development
