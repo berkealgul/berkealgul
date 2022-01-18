@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Currently, I am a engineering student at I have interest in robotics and singleplayer narrative games
+Currently, I am a engineering student who tries to be as efficent as possible. I have interest in robotics and singleplayer narrative games
 - 🔭 I’m currently working on robot perception and nacigation
 - 🌱 I’m currently learning Kalman filters and robot localization and tring to 
 - 👯 I’m looking to collaborate on some cool robotics and self-driving projects
