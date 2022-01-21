@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently, I am an engineering student who tries to be as efficent as possible. I have interest in robotics and singleplayer narrative games
+Currently, I am an engineering student who tries to be as efficent as possible. I have interest in ai, robotics and singleplayer narrative games
 - 🔭 I’m currently working on robotics and games
 - 🌱 I’m currently learning Kalman filters and game development
 - 👯 I’m looking to collaborate on some cool robotics and game development projects
