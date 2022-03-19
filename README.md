@@ -34,7 +34,7 @@ Currently, I am an engineering student who tries to be as efficent as possible. 
 [![Linkedin Badge](https://img.shields.io/badge/-berkealgul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berkealgul/)](https://www.linkedin.com/in/berkealgul/) 
 [![Gmail Badge](https://img.shields.io/badge/berkealgul@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:berkealgul@gmail.com)](mailto:berkealgul@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=berkealgul&color=blue)
+![](https://komarev.com/ghpvc/?username=berkealgul&color=blue&label=berkealgul+profile+visitor)
 
 ![Berke's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkealgul&show_icons=true&theme=onedark)
 
