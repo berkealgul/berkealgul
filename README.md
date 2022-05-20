@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 -->
 
-Currently, I am an engineering student who tries to be as efficent as possible. I have interest in AI, robotics and singleplayer narrative games
+Hello, I am another person who loves programming. I have interest in AI, robotics and singleplayer narrative games
 - 🔭 I’m currently working on robotics and games
 - 🌱 I’m currently learning game development and software enginerring
 - 👯 I’m looking to collaborate on some cool robotics and game development projects
