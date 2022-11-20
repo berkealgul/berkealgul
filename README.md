@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 Hello, I am an another programming person who loves programming. I have interest in AI, robotics game development
 - 🔭 I’m currently working on robotics and games
-- 🌱 I’m currently learning Unreal Engine
 - 👯 I’m looking to collaborate on some cool robotics and game development projects
 - 📫 How to reach me: berkealgul@gmail.com
 
