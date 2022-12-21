@@ -25,11 +25,12 @@ Here are some ideas to get you started:
 
 -->
 
-Hello, I am an another programming person who loves programming. I have interest in AI, robotics game development
+<!--
+Hello, I am an person who loves programming. I have interest in AI, robotics game development
 - 🔭 I’m currently working on robotics and games
 - 👯 I’m looking to collaborate on some cool robotics and game development projects
 - 📫 How to reach me: berkealgul@gmail.com
-
+-->
 [![Linkedin Badge](https://img.shields.io/badge/-berkealgul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berkealgul/)](https://www.linkedin.com/in/berkealgul/) 
 [![Gmail Badge](https://img.shields.io/badge/berkealgul@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:berkealgul@gmail.com)](mailto:berkealgul@gmail.com)
 
