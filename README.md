@@ -26,9 +26,7 @@ Hello, I am an person who loves programming. I have interest in AI, robotics gam
 -->
 <!--
 ![Berke's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkealgul&show_icons=true&theme=onedark)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkealgul&layout=compact)-->
+-->
 
 
 [![Berke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=berkealgul&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/berkealgul)
