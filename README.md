@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/berkealgul/count.svg)
+
 ### Hi  👋
 
 <!--
@@ -30,5 +32,7 @@ Hello, I am an person who loves programming. I have interest in AI, robotics gam
 
 
 [![Berke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=berkealgul&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/berkealgul)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkealgul&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
