@@ -1,9 +1,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/berkealgul/count.svg)
 
-### Hi  👋
-
 <!--
-**berkealgul/berkealgul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h3 align="left">Stuff I worked with:</h3>
 <p align="left"> 
