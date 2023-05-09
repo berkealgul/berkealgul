@@ -14,8 +14,8 @@
 
 Hello, my name is Berke,
 - 🔭 I’m currently working on self-driving vehicles, focusing localization systems
-- 👯 My main area of interests are; self-driving vehicles, video game technologies and machine learning
-- :four_leaf_clover: I am looking to collaborate on local and global competitions and game jams 
+- :four_leaf_clover: My main area of interests are; self-driving vehicles, video game technologies and machine learning
+- 👯 I am looking to collaborate on local and global competitions and game jams 
 
 [![Linkedin Badge](https://img.shields.io/badge/-berkealgul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berkealgul/)](https://www.linkedin.com/in/berkealgul/) 
 [![Gmail Badge](https://img.shields.io/badge/berkealgul@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:berkealgul@gmail.com)](mailto:berkealgul@gmail.com)
