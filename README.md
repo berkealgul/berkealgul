@@ -13,7 +13,7 @@
 
 
 Hello, my name is Berke,
-- 🔭 I’m currently working with self-driving vehicles, focusing localization systems
+- 🔭 I’m currently working with self-driving vehicles, focusing on localization systems
 - :four_leaf_clover: My main area of interests are; self-driving vehicles, video game technologies and machine learning
 - 👯 I am looking to collaborate for local and global competitions and game jams 
 
