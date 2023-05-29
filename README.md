@@ -1,6 +1,7 @@
-![Visitor Count](https://profile-counter.glitch.me/berkealgul/count.svg)
+
 
 <!--
+![Visitor Count](https://profile-counter.glitch.me/berkealgul/count.svg)
 
 <h3 align="left">Stuff I worked with:</h3>
 <p align="left"> 
