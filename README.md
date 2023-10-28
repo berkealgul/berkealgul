@@ -14,7 +14,7 @@
 
 
 Hello, my name is Berke,
-- 🔭 I’m software engineer currently working with self-driving vehicles, focusing on localization systems
+- 🔭 I’m software engineer currently working with self-driving vehicles, focusing on localization&SLAM systems
 - :four_leaf_clover: My main area of interests are; robotics, video game technologies and computer vision
 - 👯 I am looking to collaborate for local and global competitions and game jams 
 
