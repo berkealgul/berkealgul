@@ -14,7 +14,7 @@
 
 
 Hello, my name is Berke,
-- :four_leaf_clover: My main area of interests are; robotics, video game technologies and computer vision
+- :four_leaf_clover: My main area of interests are; reinforcement learning, robotics, video game technologies and computer vision
 
 [![Linkedin Badge](https://img.shields.io/badge/-berkealgul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berkealgul/)](https://www.linkedin.com/in/berkealgul/) 
 [![Gmail Badge](https://img.shields.io/badge/berkealgul@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:berkealgul@gmail.com)](mailto:berkealgul@gmail.com)
