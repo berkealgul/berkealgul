@@ -11,7 +11,7 @@
 </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
 </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 -->
-
+<!--
 
 Hello, my name is Berke,
 - :four_leaf_clover: My main area of interests are; reinforcement learning, robotics, video game technologies and computer vision
@@ -23,7 +23,6 @@ Hello, my name is Berke,
 -->
 <!--
 ![Berke's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkealgul&show_icons=true&theme=onedark)
--->
 
 
 [![Berke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=berkealgul&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/berkealgul)
