@@ -11,12 +11,10 @@
 </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
 </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 -->
-<!--
+
 
 Hello, my name is Berke,
 - :four_leaf_clover: My main area of interests are; reinforcement learning, robotics, video game technologies and computer vision
-
-[![Gmail Badge](https://img.shields.io/badge/berkealgul@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:berkealgul@gmail.com)](mailto:berkealgul@gmail.com)
 
 <!--
 ![](https://komarev.com/ghpvc/?username=berkealgul&color=blue)
