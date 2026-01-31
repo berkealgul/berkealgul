@@ -14,7 +14,7 @@
 
 
 Hello, my name is Berke,
-- :four_leaf_clover: My main area of interests are; reinforcement learning, robotics, video game technologies and computer vision
+- :four_leaf_clover: My area of interests are; reinforcement learning, robotics, video game technologies and computer vision
 
 <!--
 ![](https://komarev.com/ghpvc/?username=berkealgul&color=blue)
